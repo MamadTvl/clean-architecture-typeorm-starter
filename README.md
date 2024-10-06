@@ -1,4 +1,4 @@
-# Mini Staking Platform
+# Clean Architecute Typeorm Starter
 
 ## Installation
 
