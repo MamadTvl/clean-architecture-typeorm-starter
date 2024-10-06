@@ -1,0 +1,8 @@
+.git
+docker-data
+node_modules
+dist
+.VSCodeCounter
+tmp
+*.env
+.env.example
